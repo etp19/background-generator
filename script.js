@@ -14,9 +14,4 @@ color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
 
-function IsUserValid(bool) {
-    return bool;
-}
-
-var answer = IsUserValid(true) ? "You may enter": "Access Denied";
 
